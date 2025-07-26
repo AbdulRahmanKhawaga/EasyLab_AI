@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+get-pip.py
+.env
